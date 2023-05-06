@@ -1,0 +1,41 @@
+
+
+
+.card-photo {
+    /* height: 300px !important; */
+
+}
+
+.letter-spacing {
+    letter-spacing: 1px;
+
+}
+
+
+
+
+@media (max-width: 575.98px) { 
+    .cards-container{
+        margin-right: 0rem!important;
+        margin-left: 0rem!important;
+    }
+
+    .card-photo {
+        /* height: auto !important; */
+    
+    }
+ }
+
+@media (max-width: 767.98px) { 
+    .cards-container{
+        margin-right: 0rem!important;
+        margin-left: 0rem!important;
+    }
+ }
+
+@media (max-width: 991.98px) { 
+    .cards-container{
+        margin-right: 0rem!important;
+        margin-left: 0rem!important;
+    }
+ }
